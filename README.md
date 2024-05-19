@@ -1,3 +1,4 @@
+
 # PostgreSQL Automatic Failover
 
 High-Availibility for Postgres, based on industry references Pacemaker and
